@@ -8,5 +8,5 @@ In the First report I visualized the amount gained from the different countries.
 In the second report I visualized the Sales Performance.
 ![image](https://user-images.githubusercontent.com/87570174/175296104-09e8fc6c-28fa-42df-8c6e-3754cafcf42a.png)
 
-The third report
+The third report is about the trend and forecast. It shows that the number of customers and total amount will not change much. 
 ![image](https://user-images.githubusercontent.com/87570174/175297254-6691e000-f875-4487-9e76-d618728f7ffd.png)
